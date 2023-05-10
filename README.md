@@ -4,6 +4,9 @@ All attack codes will be specified with this repository, pure/unchagned code is 
 
 Source code of the template commes from https://github.com/lnlp/LMIC-node.
 
+### 00 Default End Node Source code
+This folder contains the customized LMIC library for the end node to allow it to connect to our chirpstack infrastructure and send an example uplink data payload.
+
 ## Realized attacks
 
 ### 01 Jamming attack 
